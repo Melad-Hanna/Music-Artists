@@ -1,6 +1,6 @@
 # NBA
 We love music.<br>
-An app for our beloved music artists.
+An app for our beloved music artists.<br>
 Built with love and react js.<br>
 
 ## TECHNOLOGIES USED
